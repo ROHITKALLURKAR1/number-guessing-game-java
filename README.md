@@ -10,4 +10,4 @@ A simple Java Swing GUI-based number guessing game.
 
 ## Screenshot
 
-![Game UI](Game-UI.png)
+![Game UI](Game_UI.png)
