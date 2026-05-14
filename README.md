@@ -1,2 +1,13 @@
-# number-guessing-game-java
-A Simple Game of Number Guessing 1 to 100 Using Java ,java Swing for UI
+# Number Guessing Game
+
+A simple Java Swing GUI-based number guessing game.
+
+## Features
+- Random number generation
+- Attempt tracking
+- GUI using Java Swing
+- Feedback system
+
+## Screenshot
+
+![Game UI](Game-UI.png)
