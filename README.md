@@ -1,6 +1,7 @@
 # Number Guessing Game
 
 A simple Java Swing GUI-based number guessing game.
+with simple UI
 
 ## Features
 - Random number generation
