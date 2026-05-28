@@ -7,8 +7,7 @@ with simple UI
 - Random number generation
 - Attempt tracking
 - GUI using Java Swing
-- Feedback system
-  
+- Feedback system!!!
 ## Screenshot
 
 ![Game UI](Game_UI.png)
